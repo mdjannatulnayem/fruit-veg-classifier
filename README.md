@@ -18,7 +18,10 @@ Fast Inference: Powered by TensorFlow Lite, providing efficient and quick image 
 User-friendly UI: Intuitive and attractive interface designed using Streamlit with custom HTML/CSS styling.
 Prediction Visualization: Displays prediction results and optional bar chart of classification probabilities.
 Developer Info Sidebar: Information like the developer's GitHub, LinkedIn, and email provided for easy contact.
+
+
 Demo
+
 You can test this app by uploading an image of fruits or vegetables, and it will return a classification result based on the model’s predictions.
 
 

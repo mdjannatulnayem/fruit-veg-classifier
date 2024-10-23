@@ -1,7 +1,7 @@
 🍎🍉 Fruit and Vegetable Classifier 🍇🥕
 Version: 1.0.0
 
-![ui of fruit and vegetable classifier](https://drive.google.com/file/d/1ItqxX1xDQzumJerZ7Z9cUDHDqLSF1Izy/view?usp=sharing)
+https://drive.google.com/file/d/1ItqxX1xDQzumJerZ7Z9cUDHDqLSF1Izy/view?usp=sharing
 
 
 Overview

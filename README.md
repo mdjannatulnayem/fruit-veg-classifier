@@ -1,7 +1,8 @@
 🍎🍉 Fruit and Vegetable Classifier 🍇🥕
 Version: 1.0.0
 
-https://drive.google.com/file/d/1ItqxX1xDQzumJerZ7Z9cUDHDqLSF1Izy/view?usp=sharing
+![UI of Fruit and Vegetable Classifier](https://drive.google.com/uc?export=view&id=1ItqxX1xDQzumJerZ7Z9cUDHDqLSF1Izy)
+
 
 
 Overview
@@ -18,10 +19,7 @@ Fast Inference: Powered by TensorFlow Lite, providing efficient and quick image 
 User-friendly UI: Intuitive and attractive interface designed using Streamlit with custom HTML/CSS styling.
 Prediction Visualization: Displays prediction results and optional bar chart of classification probabilities.
 Developer Info Sidebar: Information like the developer's GitHub, LinkedIn, and email provided for easy contact.
-
-
 Demo
-
 You can test this app by uploading an image of fruits or vegetables, and it will return a classification result based on the model’s predictions.
 
 

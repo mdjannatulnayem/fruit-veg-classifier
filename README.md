@@ -6,8 +6,6 @@
 
 ```markdown
 
----
-```markdown
 ## 🌟 Overview
 The **Fruit and Vegetable Classifier** is a web-based deep learning application that classifies images of fruits and vegetables. Powered by **TensorFlow Lite**, this app enables users to upload images and predict the type of fruit or vegetable displayed. It demonstrates how machine learning models can be effectively deployed for real-world image classification.
 

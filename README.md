@@ -1,3 +1,4 @@
+```markdown
 # 🍎🍉 Fruit and Vegetable Classifier 🍇🥕
 **Version**: 1.0.0
 
@@ -59,3 +60,75 @@ Ensure the following are installed:
    ```bash
    git clone https://github.com/akashghosh20/fruit-veg-classifier.git
    cd fruit-veg-classifier
+   ```
+
+2. **Create a virtual environment** (optional but recommended):
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate # On Windows use `venv\Scripts\activate`
+   ```
+
+3. **Install the required packages**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Download and extract the dataset**:
+   Download the Fruits-360 ZIP file and extract it into the project folder, specifically using the `test` folder for classification tasks.
+   ```bash
+   unzip fruits-360-dataset.zip -d dataset/
+   ```
+
+5. **Add the TensorFlow Lite model and labels**:
+   - Place `vegModels.tflite` (TensorFlow Lite model) in the root directory.
+   - Ensure `labels.txt` (class labels) is also in the root directory.
+
+---
+
+## 🖥️ Running the App
+1. **Launch the Streamlit app**:
+   ```bash
+   streamlit run main.py
+   ```
+
+2. **Upload an Image**:
+   Once the app is running, upload an image of a fruit or vegetable. The app will classify the image and display the prediction.
+
+---
+
+## 📁 Project Structure
+```plaintext
+fruit-veg-classifier/
+│
+├── dataset/            # Contains extracted dataset from ZIP
+│   └── test/           # Images for classification
+├── vegModels.tflite    # TensorFlow Lite model for classification
+├── labels.txt          # Class labels for prediction
+├── main.py             # Main Streamlit app file
+├── README.md           # Project README file
+└── requirements.txt    # Python dependencies
+```
+
+---
+
+## 🎨 Customization
+
+### Styling
+The UI of this project is styled using HTML and CSS embedded within Streamlit's `st.markdown()` method. To customize the appearance further, edit the styles within `main.py`, especially in the `st.markdown()` sections for the main page and sidebar.
+
+---
+
+## 🚀 Future Improvements
+- **Expand Categories**: Increase the range of fruits and vegetables the model can classify.
+- **Confidence Visualization**: Add a confidence chart for predictions, providing users more insight into the model's certainty.
+
+---
+
+## 👤 Contact
+For any questions or suggestions, please reach out:
+
+- **Email**: ag1229222@gmail.com
+
+This project was created as an educational demonstration of TensorFlow Lite and Streamlit integration for machine learning applications.
+
+---

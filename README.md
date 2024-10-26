@@ -36,6 +36,8 @@ This model is trained on the **Fruits-360 dataset**, a comprehensive collection 
 - Carrots, Cauliflower, Eggplant, Ginger
 - Peppers (Red, Green, Yellow)
 
+ ```
+
 Download the dataset here:
 
 [Download Fruits-360 Dataset](https://github.com/Horea94/Fruit-Images-Dataset)
@@ -60,7 +62,7 @@ Ensure the following are installed:
    ```bash
    git clone https://github.com/akashghosh20/fruit-veg-classifier.git
    cd fruit-veg-classifier
-   ```
+  
 
 2. **Create a virtual environment** (optional but recommended):
    ```bash

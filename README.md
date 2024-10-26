@@ -2,8 +2,6 @@
 # 🍎🍉 Fruit and Vegetable Classifier 🍇🥕
 **Version**: 1.0.0
 
-![UI of Fruit and Vegetable Classifier](https://drive.google.com/uc?export=view&id=1ItqxX1xDQzumJerZ7Z9cUDHDqLSF1Izy)
-
 ---
 
 ## 🌟 Overview
@@ -61,6 +59,7 @@ Ensure the following are installed:
    git clone https://github.com/akashghosh20/fruit-veg-classifier.git
    cd fruit-veg-classifier
    ```
+![UI of Fruit and Vegetable Classifier](https://drive.google.com/uc?export=view&id=1ItqxX1xDQzumJerZ7Z9cUDHDqLSF1Izy)
 
 2. **Create a virtual environment** (optional but recommended):
    ```bash

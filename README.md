@@ -50,7 +50,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone [Download Fruits-360 Dataset](https://github.com/akashghosh20/fruit-veg-classifier.git)
+git clone [clone my repository](https://github.com/akashghosh20/fruit-veg-classifier.git)
 cd fruit-veg-classifier
 Create a virtual environment (optional but recommended):
 bash

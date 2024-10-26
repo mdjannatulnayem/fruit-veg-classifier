@@ -49,23 +49,19 @@ Required Python libraries (can be installed via requirements.txt)
 Installation
 Clone the repository:
 bash
-Copy code
 git clone [clone my repository](https://github.com/akashghosh20/fruit-veg-classifier.git)
 cd fruit-veg-classifier
 Create a virtual environment (optional but recommended):
 bash
-Copy code
 python3 -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 Install the required Python packages:
 bash
-Copy code
 pip install -r requirements.txt
 Download and extract the dataset:
 Go to the Fruits-360 Dataset, download the ZIP file, and extract it into the project folder. Specifically, use the test folder for the classification task.
 
 bash
-Copy code
 unzip fruits-360-dataset.zip -d dataset/
 Ensure the dataset's test folder contains subdirectories with images of various fruits and vegetables.
 

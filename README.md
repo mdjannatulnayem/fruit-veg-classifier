@@ -2,7 +2,7 @@
 # 🍎🍉 Fruit and Vegetable Classifier 🍇🥕
 **Version**: 1.0.0
 
-![UI of Fruit and Vegetable Classifier](https://drive.google.com/uc?export=view&id=1ItqxX1xDQzumJerZ7Z9cUDHDqLSF1Izy)
+[UI of Fruit and Vegetable Classifier](https://drive.google.com/uc?export=view&id=1ItqxX1xDQzumJerZ7Z9cUDHDqLSF1Izy)
 
 ---
 
